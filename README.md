@@ -1,2 +1,3 @@
 # SamDab27-demo
 This is my first Git repository.
+Author - Samarth Dabral
